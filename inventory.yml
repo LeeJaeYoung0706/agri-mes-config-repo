@@ -1,0 +1,6 @@
+inventory-service:
+  info:
+    message: "테스트메세지"
+    releaseVersion: "테스트버전"
+    buildNo: "테스트빌드버전"
+    commitSha: "테스트빌드배포코드"
